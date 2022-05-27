@@ -8,7 +8,15 @@ The directory for the input data:
 * "/data"
   * dirty data file
   * correct data file
-
+### Dataset:
+All datasets used in the paper can be download from:
+* [ASF](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
+* [Letter](https://archive.ics.uci.edu/ml/datasets/letter+recognition)
+* [MAM](https://sci2s.ugr.es/keel/dataset.php?cod=86)
+* [Restaurant](http://www.cs.utexas.edu/users/ml/riddle/data.html)
+* [Solar-Flare](http://archive.ics.uci.edu/ml/datasets/solar+flare)
+* [Mushroom](https://sci2s.ugr.es/keel/dataset.php?cod=178)
+* [Adult](https://sci2s.ugr.es/keel/dataset.php?cod=192)
 
 ## Output
 * There are four output data:
