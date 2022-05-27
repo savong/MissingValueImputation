@@ -41,4 +41,5 @@ All datasets used in the paper can be download from:
 ## Library
 [jama.jar](https://math.nist.gov/javanumerics/jama/) is needed to run the code.
 
-
+## Reference
+* Shaoxu Song and Yu Sun. 2020. Imputing Various Incomplete Attributes via Distance Likelihood Maximization. In KDD 20: The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, Virtual Event, CA, USA, August 23-27, 2020, Rajesh Gupta, Yan Liu, Jiliang Tang, and B. Aditya Prakash (Eds.). ACM, 535–545. https://doi.org/10.1145/3394486.3403096
