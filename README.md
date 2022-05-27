@@ -21,3 +21,16 @@ The directory for the input data:
   * Index of the incomplete record
   * Index of the missed attribute value
   * The predicted value
+
+## Parameter
+### Method
+
+#### setParams(K, L, Can);
+* K: the number of considered largest likelihoods 
+* L: the number of learning neighbors for distance models
+* Can: the number of candidates for imputation
+
+## Library
+[jama.jar](https://math.nist.gov/javanumerics/jama/) is needed to run the code.
+
+
