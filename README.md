@@ -1,7 +1,8 @@
 # MissingValueImputation
-Source code for the paper "Missing Value Imputation by Density-based Distance Likelihood". This implementation is on top of the publicly released [code](https://github.com/DLMImputation/DLM) of the method in the paper: Shaoxu Song and Yu Sun, "[Imputing Various Incomplete Attributes via Distance likelihood](https://dl.acm.org/doi/10.1145/3394486.3403096)," the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, p. 535-545, Virtual Event, CA, USA, August 23-27, 2020.
+Source code for the paper "Savong Bou, Toshiyuki Amagasa, Hiroyuki Kitagawa, Salman Ahmed Shaikh, Akiyoshi Matono, "Missing Value Imputation by Density-based Distance Likelihood"". This implementation is on top of the publicly released [code](https://github.com/DLMImputation/DLM) of the method in the paper: Shaoxu Song and Yu Sun, "[Imputing Various Incomplete Attributes via Distance likelihood](https://dl.acm.org/doi/10.1145/3394486.3403096)," the 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, p. 535-545, Virtual Event, CA, USA, August 23-27, 2020.
 
-
+##Contact
+savong-hashimoto@cs.tsukuba.ac.jp
 
 ## Input
 The directory for the input data:
