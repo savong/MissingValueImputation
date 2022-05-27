@@ -10,7 +10,7 @@ The directory for the input data:
   * dirty data file
   * correct data file
 ### Dataset:
-All datasets used in the paper can be download from:
+All datasets used in the paper can be downloaded from:
 * [ASF](http://archive.ics.uci.edu/ml/datasets/Airfoil+Self-Noise)
 * [Letter](https://archive.ics.uci.edu/ml/datasets/letter+recognition)
 * [MAM](https://sci2s.ugr.es/keel/dataset.php?cod=86)
