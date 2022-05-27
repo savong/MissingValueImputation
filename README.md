@@ -4,19 +4,19 @@ Source code for the paper "Missing Value Imputation by Density-based Distance Li
 
 ## Input
 The directory for the input data:
--"/data"
---dirty data file
---correct data file
+* "/data"
+  * dirty data file
+  * correct data file
 
 
 ## Output
-There are four output data:
--The predicted value
--The correct value
--The overall RMS for missed attribute values that are numerical
--The overal accuracy for the missed attribute values that are categorical.
+* There are four output data:
+  * The predicted value
+  * The correct value
+  * The overall RMS for missed attribute values that are numerical
+  * The overal accuracy for the missed attribute values that are categorical.
 
-Each predicted value of the missed attribute values of the incomplete records consist of:
--Index of the incomplete record
--Index of the missed attribute value
--The predicted value
+* Each predicted value of the missed attribute values of the incomplete records consist of:
+  * Index of the incomplete record
+  * Index of the missed attribute value
+  * The predicted value
